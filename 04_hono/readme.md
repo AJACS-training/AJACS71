@@ -114,7 +114,7 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
     - [「遺伝子発現DB・ウェブツールの使い方 応用・実践編」(2015年5月AJACS御茶ノ水)](http://togotv.dbcls.jp/ja/ajacs2015007.html)
 
 - 非モデル生物のデータをモデル生物のデータに見立てるためのID対応表づくりについて
-    - [「コマンドラインで遺伝子配列を解析する」（2012年7月）](http://motdb.dbcls.jp/?AJACS32%2Fbono)
+    - [「コマンドラインで遺伝子配列を解析する」（2012年7月）](https://github.com/AJACS-training/AJACS32/blob/master/05_bono/README.md)
 
 - 次世代シーケンス(NGS)データの解析について
     - [【NGS】に関係する動画・講習会資料・新着論文レビュー](http://togotv.dbcls.jp/tags.html?tag=NGS)
