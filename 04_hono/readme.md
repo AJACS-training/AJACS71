@@ -126,6 +126,8 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
     - [NGSハンズオン講習会2017](https://www.youtube.com/watch?v=6Fzvl_I48tM&list=PL0uaKHgcG00YDmBXYWOgkmfeURjc8BZkk)
     - [上記の動画+講習会資料のまとめページ@統合TV](http://togotv.dbcls.jp/ja/tags.html?tag=NGS速習・ハンズオン)
 
+- 疾患と多型、変異に関するデータベース (COSMIC,TCGA 等)
+    - [【多型】に関係する動画・講習会資料・新着論文レビュー](http://togotv.dbcls.jp/tags.html?tag=%E5%A4%9A%E5%9E%8B)
 ----
 
 ## 個々の遺伝子の発現プロファイルを調べる
