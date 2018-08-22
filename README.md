@@ -1,4 +1,4 @@
-# AJACS71（AJACS番町１）
+# AJACS71（AJACS番町1）
 
 ### 公式ウェブページ
 [統合データベース講習会:AJACS番町１](https://events.biosciencedbc.jp/training/ajacs71)  
