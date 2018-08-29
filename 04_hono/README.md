@@ -48,7 +48,7 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
     - でも講師も知らないことは(多々)あります。(以下ループ)
 - 実験的な試みとしてWeb上で匿名で質問・コメントできるフォームを用意してみました。
     - [講師用](https://docs.google.com/presentation/d/1Buj93jSKB-tWU1F37ykVEuv7Bu_q6KE_4hqICRCpTk4/edit#slide=id.p)
-    - [受講者質問用フォーム](http://goo.gl/slides/ywcssq)(右クリックから「新しいタブで開く」推奨)    
+    - [受講者質問用フォーム](http://goo.gl/slides/28tskn)(右クリックから「新しいタブで開く」推奨)    
 
 ----
 
