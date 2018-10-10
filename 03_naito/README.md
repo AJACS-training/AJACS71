@@ -6,7 +6,7 @@ AJACS番町1：塩基配列解析およびゲノム編集のためのデータ�
 2018年8月29日 統合データベース講習会 AJACS番町1  
 JST東京本部（サイエンスプラザ）　B1大会議室
 
-  - [スライドPDF](AJACS71_03_naito.pdf)
+  - [スライドPDF](https://github.com/AJACS-training/AJACS71/blob/master/03_naito/AJACS71_03_naito.pdf)
 
 講習で紹介するデータベースやウェブツールへのリンクです。
 
