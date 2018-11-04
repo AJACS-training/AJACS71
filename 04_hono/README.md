@@ -276,7 +276,7 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 5. 計算が終わるまで待つ
 ![fig14](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_14.png)
 6. 計算が終わると、「Result URL」が有効になる
-  - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2018-0606-1701-36-865-010614?info=result&format=html
+  - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2018-1104-1735-21-275-473936?info=result&format=html
 7. 結果の解釈をする
   - 今回は、どういう「興味ある遺伝子リスト」をクエリとしたか考察してみましょう。
   - 結果の見方としては、「p-valueが低く、Overlaps/My dataが多く、Fold Enrichmentが高い」転写因子がたくさんヒットしてくると入力した遺伝子群をまとめて制御する、マスター転写因子を抽出できている確度が高い
